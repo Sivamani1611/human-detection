@@ -433,33 +433,3 @@ Default models in Human library are:
 
 Note that alternative models are provided and can be enabled via configuration  
 For example, body pose detection by default uses *MoveNet Lightning*, but can be switched to *MultiNet Thunder* for higher precision or *Multinet MultiPose* for multi-person detection or even *PoseNet*, *BlazePose* or *EfficientPose* depending on the use case  
-
-For more info, see [**Configuration Details**](https://github.com/vladmandic/human/wiki/Configuration) and [**List of Models**](https://github.com/vladmandic/human/wiki/Models)
-
-<br><hr><br>
-
-## Diagnostics
-
-- [How to get diagnostic information or performance trace information](https://github.com/vladmandic/human/wiki/Diag)
-
-<br><hr><br>
-
-`Human` library is written in [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html) **5.1** using [TensorFlow/JS](https://www.tensorflow.org/js/) **4.10** and conforming to latest `JavaScript` [ECMAScript version 2022](https://262.ecma-international.org/) standard  
-
-Build target for distributables is `JavaScript` [EMCAScript version 2018](https://262.ecma-international.org/9.0/)  
-
-<br>
-
-For details see [**Wiki Pages**](https://github.com/vladmandic/human/wiki)  
-and [**API Specification**](https://vladmandic.github.io/human/typedoc/classes/Human.html)
-
-<br>
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/vladmandic)
-![Stars](https://img.shields.io/github/stars/vladmandic/human?style=flat-square&svg=true)
-![Forks](https://badgen.net/github/forks/vladmandic/human)
-![Code Size](https://img.shields.io/github/languages/code-size/vladmandic/human?style=flat-square&svg=true)
-![CDN](https://data.jsdelivr.com/v1/package/npm/@vladmandic/human/badge)<br>
-![Downloads](https://img.shields.io/npm/dw/@vladmandic/human.png?style=flat-square)
-![Downloads](https://img.shields.io/npm/dm/@vladmandic/human.png?style=flat-square)
-![Downloads](https://img.shields.io/npm/dy/@vladmandic/human.png?style=flat-square)
