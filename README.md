@@ -1,10 +1,3 @@
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/vladmandic)
-![Git Version](https://img.shields.io/github/package-json/v/vladmandic/human?style=flat-square&svg=true&label=git)
-![NPM Version](https://img.shields.io/npm/v/@vladmandic/human.png?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/vladmandic/human?style=flat-square&svg=true)
-![License](https://img.shields.io/github/license/vladmandic/human?style=flat-square&svg=true)
-![GitHub Status Checks](https://img.shields.io/github/checks-status/vladmandic/human/main?style=flat-square&svg=true)
-![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/vladmandic/human?style=flat-square&svg=true)
 
 # Human Library
 
